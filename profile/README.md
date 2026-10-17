@@ -82,6 +82,7 @@ Every project we ship reports its own volume, value locked and fees. <a href="ht
 | 🔑 | **[Developer portal](https://developers.gullylabs.xyz)** | Sign in with your wallet (EIP-4361), get an API key in seconds for 600 calls a minute, and watch your usage live. |
 | 🧩 | **[Embeddable widget](https://gullylabs.xyz/widget)** | One script tag: a live ticker, a one-stock badge or a table of the widest gaps, with logos, on any site. |
 | 📒 | **[The ledger](https://gullylabs.xyz/#ledger)** | Volume, value locked and fees across every Gully Labs project, read live from each project's own API. |
+| 📦 | **[SDK](https://github.com/gully-labs/sdk)** | A typed TypeScript client for the API and the widget as a React component. Source is open (MIT). |
 | 📚 | **[Docs](https://docs.gullylabs.xyz)** | Methodology, API reference, widget guide and API keys. |
 | ✍️ | **[Blog](https://blog.gullylabs.xyz)** | How we build: launches, research on tokenised stocks and the numbers behind every venue. |
 
@@ -93,6 +94,7 @@ curl https://gullylabs.xyz/api/tracker
 
 - **Project 06**: the sixth Gully Labs project, in development. [Get notified](https://gullylabs.xyz/#projects).
 - **Blog posts**: the first posts are on the way at [blog.gullylabs.xyz](https://blog.gullylabs.xyz).
+- **SDK on npm**: `@gullylabs/tracker` and `@gullylabs/widget`. The source is on [GitHub](https://github.com/gully-labs/sdk) today.
 
 ---
 
