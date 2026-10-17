@@ -24,21 +24,21 @@ Every project we ship reports its own volume, value locked and fees. <a href="ht
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://cartel.family/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/projects/cartel-family.png" alt="Cartel Family" width="100%"></a>
+      <a href="https://cartel.family/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/cartel-family.png" alt="Cartel Family" width="100%"></a>
       <br><b>Cartel Family</b> · <i>Social trading</i>
       <br>We trade as one. Live markets, automated strategies and shared trades across chains.
       <br><sub>Solana · Multi-chain</sub>
       <br><a href="https://cartel.family/">Website</a> · <a href="https://x.com/carteldotfamily">X</a> · <a href="https://t.me/JoinCartelFamily">Telegram</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://deepcore.fun/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/projects/deepcore.png" alt="DeepCore" width="100%"></a>
+      <a href="https://deepcore.fun/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/deepcore.png" alt="DeepCore" width="100%"></a>
       <br><b>DeepCore</b> · <i>DeFi infrastructure</i>
       <br>Launch on one core. Tokens, Launchpads, DEXes and stock markets on one shared, hardened core.
       <br><sub>Base · BNB Chain · HyperEVM · Robinhood</sub>
       <br><a href="https://deepcore.fun/">Website</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://peddleswap.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/projects/peddleswap.png" alt="PeddleSwap" width="100%"></a>
+      <a href="https://peddleswap.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/peddleswap.png" alt="PeddleSwap" width="100%"></a>
       <br><b>PeddleSwap</b> · <i>DEX</i>
       <br>Swap. Lock. Launch. Swap tokens, earn fees from liquidity, lock tokens or LP and bridge networks.
       <br><sub>Robinhood · Base · Arc</sub>
@@ -47,24 +47,24 @@ Every project we ship reports its own volume, value locked and fees. <a href="ht
   </tr>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://peddles.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/projects/peddles.png" alt="Peddles" width="100%"></a>
+      <a href="https://peddles.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/peddles.png" alt="Peddles" width="100%"></a>
       <br><b>Peddles</b> · <i>Launchpad</i>
       <br>Launch, trade and play. Memecoins paired to tokenised stocks; holders are paid in that stock.
       <br><sub>Base · Robinhood · BNB Chain · Arc</sub>
       <br><a href="https://peddles.xyz/">Website</a> · <a href="https://x.com/PeddlesX">X</a> · <a href="https://t.me/peddlesnews">Telegram</a>
     </td>
     <td width="33%" valign="top">
-      <a href="https://peddlequest.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/projects/peddlequest.png" alt="PeddleQuest" width="100%"></a>
+      <a href="https://peddlequest.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/peddlequest.png" alt="PeddleQuest" width="100%"></a>
       <br><b>PeddleQuest</b> · <i>Quest to earn</i>
       <br>Quest on-chain, earn the proof.
       <br><sub>Base · Robinhood · BNB Chain · Arc</sub>
       <br><a href="https://peddlequest.xyz/">Website</a> · <a href="https://x.com/Ox_Forged">X</a> · <a href="https://t.me/PeddleQuestBot">Telegram</a>
     </td>
-    <td width="33%" valign="top" align="center">
-      <br><br><h1>06</h1>
-      <b>Project 06</b> · <i>In the lab</i>
+    <td width="33%" valign="top">
+      <a href="https://gullylabs.xyz/#projects"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/project-06.png" alt="Project 06, in the lab" width="100%"></a>
+      <br><b>Project 06</b> · <i>In the lab</i>
       <br>In development. Get an email the day it launches.
-      <br><br><a href="https://gullylabs.xyz/#projects">Notify me →</a>
+      <br><a href="https://gullylabs.xyz/#projects">Notify me →</a>
     </td>
   </tr>
 </table>
