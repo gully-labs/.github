@@ -98,6 +98,25 @@ curl https://gullylabs.xyz/api/tracker
 
 ---
 
+## ⛓️ Gully Chains · in development
+
+Managed Arbitrum Orbit chains, starting with **Gully Devnet**: a public test L3 with our Chain Kit explorer, a faucet and a bridge. The toolkit, forked from Offchain Labs and branded for Gully Chains:
+
+<a href="https://github.com/gully-labs/arbitrum-orbit-deployment-ui"><img src="https://gullylabs.xyz/brand/repos/arbitrum-orbit-deployment-ui.svg" alt="Gully Chains · Launch" width="100%"></a>
+
+| Repo | Role |
+|---|---|
+| [arbitrum-orbit-deployment-ui](https://github.com/gully-labs/arbitrum-orbit-deployment-ui) | Launch: deploy a chain from the browser |
+| [orbit-setup-script](https://github.com/gully-labs/orbit-setup-script) | Bootstrap: node, token bridge and explorer in one run |
+| [orbit-monitoring-tools](https://github.com/gully-labs/orbit-monitoring-tools) | Monitor: blocks, batches and balances |
+| [arbitrum-token-bridge](https://github.com/gully-labs/arbitrum-token-bridge) | Gully Bridge: deposits and withdrawals |
+| [arbitrum-token-lists](https://github.com/gully-labs/arbitrum-token-lists) | Tokens: shared token lists |
+| [stylus-sdk-rs](https://github.com/gully-labs/stylus-sdk-rs) · [stylus-hello-world](https://github.com/gully-labs/stylus-hello-world) | Stylus: Rust smart contracts |
+
+<sub>Not affiliated with or endorsed by Offchain Labs or the Arbitrum Foundation.</sub>
+
+---
+
 ## 🛠 Work with us
 
 Smart contracts, dApps & frontends, chain infrastructure, and security & audits, from the team behind these projects.
