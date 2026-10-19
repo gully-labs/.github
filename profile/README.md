@@ -73,8 +73,7 @@ curl https://gullylabs.xyz/api/tracker
 - [website](https://github.com/gully-labs/website): the source of gullylabs.xyz, the docs and the app.
 - [sdk](https://github.com/gully-labs/sdk): `@gullylabs/tracker`, `@gullylabs/widget` and `@gullylabs/holders`.
 - [umami](https://github.com/gully-labs/umami/tree/gully/analytics): the Gully Analytics fork.
-- [blockscout](https://github.com/gully-labs/blockscout/tree/gully/chain-kit): the Chain Kit fork (waitlist; licence in progress).
-- Forks of Offchain Labs, Pimlico and eth-infinitism tooling kept for the planned Gully L3 testnet. They are reference forks and are not deployed by Gully Labs. Not affiliated with or endorsed by Offchain Labs or the Arbitrum Foundation.
+- Forks of Pimlico and eth-infinitism tooling kept for the planned Gully L3 testnet. They are not deployed by Gully Labs and are not affiliated with or endorsed by their upstream authors.
 
 ## Find us
 
