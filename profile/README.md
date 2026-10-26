@@ -1,41 +1,37 @@
-<a href="https://gullylabs.xyz">
-  <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/banner.png" alt="Gully Labs — built here, measured live" width="100%">
-</a>
-
 <p align="center">
-  <a href="https://gullylabs.xyz"><img src="https://img.shields.io/badge/gullylabs.xyz-E8C060?style=for-the-badge&labelColor=0B0E13&logo=googlechrome&logoColor=E8C060" alt="Website"></a>
-  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0B0E13?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
-  <a href="https://t.me/GullyLabsNews"><img src="https://img.shields.io/badge/Telegram-0B0E13?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
-  <a href="https://docs.gullylabs.xyz"><img src="https://img.shields.io/badge/Docs-0B0E13?style=for-the-badge&logo=readthedocs&logoColor=E8C060" alt="Docs"></a>
-  <a href="https://blog.gullylabs.xyz"><img src="https://img.shields.io/badge/Blog-0B0E13?style=for-the-badge&logo=ghost&logoColor=E8C060" alt="Blog"></a>
+  <a href="https://gullylabs.xyz">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/gully-labs-logo-on-light-2x.png">
+      <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/gully-labs-logo-2x.png" width="464" height="186" alt="Gully Labs — You Think It, We Ship It.">
+    </picture>
+  </a>
 </p>
 
-<h3 align="center">Gully Labs builds onchain tools and runs its own Web3 projects, and measures every one of them live.</h3>
+<h3 align="center">You Think It, We Ship It.</h3>
 
----
+<p align="center">
+  <a href="https://gullylabs.xyz"><img src="https://img.shields.io/badge/gullylabs.xyz-00D2FF?style=for-the-badge&labelColor=06050D&logo=googlechrome&logoColor=06050D" alt="Website"></a>
+  <a href="https://docs.gullylabs.xyz"><img src="https://img.shields.io/badge/Docs-0B0A16?style=for-the-badge&labelColor=06050D&logo=readthedocs&logoColor=00D2FF" alt="Docs"></a>
+  <a href="https://x.com/Gully_Labs"><img src="https://img.shields.io/badge/@Gully__Labs-0B0A16?style=for-the-badge&labelColor=06050D&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://t.me/GullyLabsNews"><img src="https://img.shields.io/badge/Telegram-0B0A16?style=for-the-badge&labelColor=06050D&logo=telegram&logoColor=26A5E4" alt="Telegram"></a>
+  <a href="https://blog.gullylabs.xyz"><img src="https://img.shields.io/badge/Blog-0B0A16?style=for-the-badge&labelColor=06050D&logo=ghost&logoColor=00D2FF" alt="Blog"></a>
+</p>
+
+Gully Labs builds onchain products and the infrastructure under them, runs them itself, and measures every one of them live.
 
 ## Products
 
-| Product | Status | What it does |
+| Product | Site | What it is |
 |---|---|---|
-| **[Stock tracker](https://gullylabs.xyz/tracker)** | Live | Every tokenised stock on Robinhood Chain, BNB Chain and Solana against its fair price, with a public API and alerts. |
-| **[Holder Map](https://gullylabs.xyz/holders)** | Live | Who really holds a token: biggest wallets, linked clusters and a plain-words summary. Any ERC-20 on four EVM chains and any SPL token. |
-| **[Deep check](https://docs.gullylabs.xyz/holder-map)** | Live | A paid, bounded investigation of one token: funders, shared funders, the deployer's record and snipers. |
-| **[Gully Security](https://gullylabs.xyz/security)** | Live | AI security scan (not an audit), published reports, contract monitors and human security reviews. |
-| **[Gully Score](https://gullylabs.xyz/score)** | Live | A 0 to 100 reading of how a contract is controlled and has behaved, with every component shown. |
-| **[Gully Pay](https://docs.gullylabs.xyz/gully-pay)** | Live | Non-custodial crypto invoices, pay links and merchant checkout, including Solana Pay. |
-| **[Gully AI](https://gullylabs.xyz/ask)** | Live | An assistant that answers from our docs and live data, cites its sources and says when it does not know. |
-| **[Telegram bot and Mini App](https://docs.gullylabs.xyz/telegram)** | Live | [@GullyLabsBot](https://t.me/GullyLabsBot) for gaps, launches, Holder Map, scans and alerts, and the Gully app inside Telegram. |
-| **[Gully Analytics](https://gullylabs.xyz/analytics)** | Live | Privacy-friendly web analytics with wallet, chain and transaction events. A fork of Umami. |
-| **[Gully Chains](https://gullylabs.xyz/chains)** | Waitlist | Managed Arbitrum Orbit chains. No chain is running yet; a testnet is coming. |
-| **Chain Kit** | Waitlist | A branded block explorer for your chain. We are finalising the explorer licence. |
-| **[SDK](https://github.com/gully-labs/sdk)** | Beta | Typed TypeScript clients and an embeddable widget. MIT. Not published to npm yet. |
+| **Gully Labs** | [gullylabs.xyz](https://gullylabs.xyz) | The parent brand: the site, the app, the docs, the stock token tracker, Gully Score and Gully AI. |
+| **Gully Chain** | [gullychain.xyz](https://gullychain.xyz) | L3 chains: Gully Chain Testnet (chain 485590) is live, with the launch flow and Chain Kit for your own chain. DeepCore is the built-in launchpad. |
+| **Gully Pay** | [gullypay.xyz](https://gullypay.xyz) | x402 payments, checkout and merchant OS, with the glUSD stablecoin. The payment gateway for every Gully product. |
+| **Gully RPC** | [gullyrpc.xyz](https://gullyrpc.xyz) | Node control plane, RPC gateway and portal. Every Gully node is served through it, Gully Chain included. |
+| **HolderMaps** | [holdermaps.xyz](https://holdermaps.xyz) | Holder bubble maps: who really holds a token, the biggest wallets and their linked clusters, on every chain we run. |
+| **Gully Security** | [gullysecurity.xyz](https://gullysecurity.xyz) | AI security scans (not an audit), published reports, contract monitoring and human security reviews. |
+| **Gully Studio** | [gullystudio.xyz](https://gullystudio.xyz) | The game studio: Unity 3D games on Gully Chain, built with the Gully Game SDK. |
 
 New to the stack? Start at the [docs](https://docs.gullylabs.xyz) or ask [Gully AI](https://gullylabs.xyz/ask).
-
-```bash
-curl https://gullylabs.xyz/api/tracker
-```
 
 ## Our projects
 
@@ -44,8 +40,8 @@ curl https://gullylabs.xyz/api/tracker
     <td width="25%" valign="top">
       <a href="https://deepcore.fun/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/deepcore.png" alt="DeepCore" width="100%"></a>
       <br><b><a href="https://deepcore.fun/">DeepCore</a></b>
-      <br>Launch on one core. A launchpad, hosted Launchpads and DEXes and a best-price router.
-      <br><sub>Base · BNB Chain · HyperEVM · Robinhood</sub>
+      <br>Launch on one core. A launchpad, hosted Launchpads and DEXes and a best-price router. The built-in launchpad of Gully Chain.
+      <br><sub>Gully Chain · Base · BNB Chain · HyperEVM · Robinhood</sub>
     </td>
     <td width="25%" valign="top">
       <a href="https://peddles.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/peddles.png" alt="Peddles" width="100%"></a>
@@ -71,9 +67,11 @@ curl https://gullylabs.xyz/api/tracker
 ## Repositories
 
 - [website](https://github.com/gully-labs/website): the source of gullylabs.xyz, the docs and the app.
-- [sdk](https://github.com/gully-labs/sdk): `@gullylabs/tracker`, `@gullylabs/widget` and `@gullylabs/holders`.
+- [sdk](https://github.com/gully-labs/sdk): `@gullylabs/tracker`, `@gullylabs/widget` and `@gullylabs/holders`. MIT.
+- [gully-game-sdk](https://github.com/gully-labs/gully-game-sdk): the Unity client for Gully ID, Gully Chain, Gully Pay and Gully Arcade. MIT.
+- [gully-chain-starter](https://github.com/gully-labs/gully-chain-starter): Foundry contracts and a Vite + React + viem app for Gully Chain Testnet.
 - [umami](https://github.com/gully-labs/umami/tree/gully/analytics): the Gully Analytics fork.
-- Forks of Pimlico and eth-infinitism tooling kept for the planned Gully L3 testnet. They are not deployed by Gully Labs and are not affiliated with or endorsed by their upstream authors.
+- The other public repos are forks of the open-source pieces Gully Chain, Gully Pay, Gully RPC, Gully ID and Gully Studio run on (Arbitrum Orbit, ZeroDev Kernel, Pimlico Alto, Safe, Uniswap v3, Hyperlane, eRPC, Ory Hydra, vLLM and more). Each README says what we use it for and under which licence. They are not affiliated with or endorsed by their upstream authors.
 
 ## Find us
 
@@ -81,4 +79,4 @@ curl https://gullylabs.xyz/api/tracker
 
 Smart contracts, dApps, chain infrastructure and security work on request: [gullylabs.xyz/services](https://gullylabs.xyz/services).
 
-<p align="center"><sub>© 2026 Gully Labs · <a href="https://gullylabs.xyz">gullylabs.xyz</a></sub></p>
+<p align="center"><sub>© 2026 Gully Labs · <a href="https://gullylabs.xyz">gullylabs.xyz</a> · You Think It, We Ship It.</sub></p>
