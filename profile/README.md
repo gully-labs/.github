@@ -22,17 +22,17 @@ Gully Labs builds onchain products and the infrastructure under them, runs them 
 
 ## Products
 
-| Product | Site | What it is |
-|---|---|---|
-| **Gully Labs** | [gullylabs.xyz](https://gullylabs.xyz) | The parent brand: the hub for every product, the app, the docs, the stock token tracker and Gully Score. |
-| **Gully Chain** | [gullychain.xyz](https://gullychain.xyz) | L3 chains: Gully Chain Testnet (chain 485590) is live, with the launch flow and Chain Kit for your own chain. DeepCore is the built-in launchpad. |
-| **Gully Pay** | [gullypay.xyz](https://gullypay.xyz) | x402 payments, checkout and merchant OS, with the glUSD stablecoin. The payment gateway for every Gully product. |
-| **Gully RPC** | [gullyrpc.xyz](https://gullyrpc.xyz) | Node control plane, RPC gateway and portal. Every Gully node is served through it, Gully Chain included. |
-| **Gully ID** | [gullyid.xyz](https://gullyid.xyz) | Sign in with Gully: passkeys, wallets and email, one account for every Gully app. |
-| **Gully AI** | [gullyai.xyz](https://gullyai.xyz) | An open-weight LLM API, self-hosted on vLLM, metered per product. |
-| **HolderMaps** | [holdermaps.xyz](https://holdermaps.xyz) | Holder bubble maps: who really holds a token, the biggest wallets and their linked clusters, on every chain we run. |
-| **Gully Security** | [gullysecurity.xyz](https://gullysecurity.xyz) | AI security scans (not an audit), published reports, contract monitoring and human security reviews. |
-| **Gully Studio** | [gullystudio.xyz](https://gullystudio.xyz) | The game studio: Unity 3D games on Gully Chain, built with the Gully Game SDK. |
+| | Product | What it is | Website | Key public repos |
+|---|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gully-labs-icon-512.png" height="40" alt="Gully Labs"> | **Gully Labs** | The parent brand: the hub for every product, the app, the docs, the stock token tracker and Gully Score. | [gullylabs.xyz](https://gullylabs.xyz) | [website](https://github.com/gully-labs/website), [sdk](https://github.com/gully-labs/sdk), [umami](https://github.com/gully-labs/umami) |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullypay-mark-256.png" height="40" alt="Gully Pay"> | **Gully Pay** | x402 payments, checkout and merchant OS, with the glUSD stablecoin. The payment gateway for every Gully product. | [gullypay.xyz](https://gullypay.xyz) | [x402](https://github.com/gully-labs/x402) |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullychain-icon-transparent-512.png" height="40" alt="Gully Chain"> | **Gully Chain** | The social chain where your profile is your wallet: Arbitrum Orbit L3, testnet chain 485590, Chain Kit for your own chain, DeepCore as the built-in launchpad. | [gullychain.xyz](https://gullychain.xyz) | [hyperlane-warp-ui-template](https://github.com/gully-labs/hyperlane-warp-ui-template), [arbitrum-token-bridge](https://github.com/gully-labs/arbitrum-token-bridge), [eth-faucet](https://github.com/gully-labs/eth-faucet), [safe-wallet-monorepo](https://github.com/gully-labs/safe-wallet-monorepo), [kernel](https://github.com/gully-labs/kernel), [alto](https://github.com/gully-labs/alto) |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullyrpc-icon-256.png" height="40" alt="Gully RPC"> | **Gully RPC** | Node control plane, RPC gateway and portal. Every Gully node is served through it, Gully Chain included. | [gullyrpc.xyz](https://gullyrpc.xyz) | [erpc](https://github.com/gully-labs/erpc), [grafana](https://github.com/gully-labs/grafana) |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gully-labs-icon-512.png" height="40" alt="Gully ID"> | **Gully ID** | Sign in with Gully: passkeys, wallets and email, one account for every Gully app. | [gullyid.xyz](https://gullyid.xyz) | [hydra](https://github.com/gully-labs/hydra), [SimpleWebAuthn](https://github.com/gully-labs/SimpleWebAuthn) |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/icon-transparent-256.png" height="40" alt="HolderMaps"> | **HolderMaps** | Holder bubble maps: who really holds a token, the biggest wallets and their linked clusters, on every chain we run. | [holdermaps.xyz](https://holdermaps.xyz) | <sub>private for now</sub> |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/icon-color-512.png" height="40" alt="Gully Security"> | **Gully Security** | AI security scans (not an audit), published reports, contract monitoring and human security reviews. | [gullysecurity.xyz](https://gullysecurity.xyz) | <sub>private for now</sub> |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullystudio-icon-256.png" height="40" alt="Gully Studio"> | **Gully Studio** | The game studio: Unity 3D games on Gully Chain, built with the Gully Game SDK. | [gullystudio.xyz](https://gullystudio.xyz) | [gully-game-sdk](https://github.com/gully-labs/gully-game-sdk), [nakama](https://github.com/gully-labs/nakama), [Mirror](https://github.com/gully-labs/Mirror), [agones](https://github.com/gully-labs/agones) |
+| <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullyai-icon-transparent-512.png" height="40" alt="Gully AI"> | **Gully AI** | An open-weight LLM API, self-hosted on vLLM, metered per product. | [gullyai.xyz](https://gullyai.xyz) | [vllm](https://github.com/gully-labs/vllm), [Qwen3.8](https://github.com/gully-labs/Qwen3.8) |
 
 New to the stack? Start at the [docs](https://docs.gullylabs.xyz) or ask [Gully AI](https://gullylabs.xyz/ask).
 
@@ -96,8 +96,8 @@ Smart contracts, dApps, chain infrastructure and security work on request: [gull
 <p align="center">
   <a href="https://gullylabs.xyz">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gully-labs/.github/main/.github/assets/powered-by-gully-labs-dark-2x.png">
-      <img alt="Powered by Gully Labs" src="https://raw.githubusercontent.com/gully-labs/.github/main/.github/assets/powered-by-gully-labs-light-2x.png" width="254" height="64">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/powered-by-gully-labs-dark-2x.png">
+      <img alt="Powered by Gully Labs" src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/powered-by-gully-labs-light-2x.png" width="254" height="64">
     </picture>
   </a>
 </p>
