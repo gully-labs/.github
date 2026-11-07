@@ -41,10 +41,10 @@ New to the stack? Start at the [docs](https://docs.gullylabs.xyz) or ask [Gully 
 <table>
   <tr>
     <td width="25%" valign="top">
-      <a href="https://deepcore.fun/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/deepcore.png" alt="DeepCore" width="100%"></a>
-      <br><b><a href="https://deepcore.fun/">DeepCore</a></b>
-      <br>Launch on one core. A launchpad, hosted Launchpads and DEXes and a best-price router. The built-in launchpad of Gully Chain.
-      <br><sub>Gully Chain · Base · BNB Chain · HyperEVM · Robinhood</sub>
+      <a href="https://github.com/gully-labs/gully-core"><img src="https://raw.githubusercontent.com/gully-labs/gully-core/main/branding/gully-core-mark-light.svg" alt="Gully Core" width="100%"></a>
+      <br><b><a href="https://github.com/gully-labs/gully-core">Gully Core</a></b>
+      <br>Launchpads, DEXes and markets on one shared core. Built on PancakeSwap Infinity's audited core.
+      <br><sub>Live: Gully Chain Testnet · Anubis</sub>
     </td>
     <td width="25%" valign="top">
       <a href="https://peddles.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/peddles.png" alt="Peddles" width="100%"></a>
@@ -70,6 +70,7 @@ New to the stack? Start at the [docs](https://docs.gullylabs.xyz) or ask [Gully 
 ## Repositories
 
 - [website](https://github.com/gully-labs/website): the source of gullylabs.xyz, the docs and the app.
+- [gully-core](https://github.com/gully-labs/gully-core): the Gully Core contracts, live on Gully Chain Testnet and Anubis. GPL-2.0-or-later.
 - [sdk](https://github.com/gully-labs/sdk): `@gullylabs/tracker`, `@gullylabs/widget` and `@gullylabs/holders`. MIT.
 - [gully-game-sdk](https://github.com/gully-labs/gully-game-sdk): the Unity client for Gully ID, Gully Chain, Gully Pay and Gully Arcade. MIT.
 - [gully-chain-starter](https://github.com/gully-labs/gully-chain-starter): Foundry contracts and a Vite + React + viem app for Gully Chain Testnet.
@@ -80,6 +81,7 @@ New to the stack? Start at the [docs](https://docs.gullylabs.xyz) or ask [Gully 
 |---|---|
 | Gully Labs | website, gully-ops, sdk, umami, VengeanceUI |
 | Gully Chain | gully-street (+ ios, android), gully-explorer, gullychain-sdk, gully-bridge-sdk, gully-quests, gully-dm, gully-bots, gully-copytrade, gully-chain-starter, the Chain Kit repos, and the chain forks (bridge, faucet, Safe, Uniswap v3, Kernel, Alto, Hyperlane, ENS, token lists, registries) |
+| Gully Core | gully-core, gully-core-app |
 | Gully Pay | gull-pay, x402 |
 | Gully RPC | gully-rpc, erpc, grafana |
 | Gully ID | gully-id, hydra, SimpleWebAuthn |
