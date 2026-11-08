@@ -27,6 +27,7 @@ Gully Labs builds onchain products and the infrastructure under them, runs them 
 | <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gully-labs-icon-512.png" height="40" alt="Gully Labs"> | **Gully Labs** | The parent brand: the hub for every product, the app, the docs, the stock token tracker and Gully Score. | [gullylabs.xyz](https://gullylabs.xyz) | [website](https://github.com/gully-labs/website), [sdk](https://github.com/gully-labs/sdk), [umami](https://github.com/gully-labs/umami) |
 | <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullypay-mark-256.png" height="40" alt="Gully Pay"> | **Gully Pay** | x402 payments, checkout and merchant OS, settling in USDC. The payment gateway for every Gully product. | [gullypay.xyz](https://gullypay.xyz) | [x402](https://github.com/gully-labs/x402) |
 | <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullychain-icon-transparent-512.png" height="40" alt="Gully Chain"> | **Gully Chain** | The social chain where your profile is your wallet: Arbitrum Orbit L3, testnet chain 485590, Chain Kit for your own chain, DeepCore as the built-in launchpad. | [gullychain.xyz](https://gullychain.xyz) | [hyperlane-warp-ui-template](https://github.com/gully-labs/hyperlane-warp-ui-template), [arbitrum-token-bridge](https://github.com/gully-labs/arbitrum-token-bridge), [eth-faucet](https://github.com/gully-labs/eth-faucet), [safe-wallet-monorepo](https://github.com/gully-labs/safe-wallet-monorepo), [kernel](https://github.com/gully-labs/kernel), [alto](https://github.com/gully-labs/alto) |
+| | **Gully Core** | Launchpads, DEXes and stock markets as a service on one shared core. Outside builders pay a flat 0.30% of each trade. | [gullycore.xyz](https://gullycore.xyz) | gully-core, gully-core-app |
 | <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gullyrpc-icon-256.png" height="40" alt="Gully RPC"> | **Gully RPC** | Node control plane, RPC gateway and portal. Every Gully node is served through it, Gully Chain included. | [gullyrpc.xyz](https://gullyrpc.xyz) | [erpc](https://github.com/gully-labs/erpc), [grafana](https://github.com/gully-labs/grafana) |
 | <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/gully-labs-icon-512.png" height="40" alt="Gully ID"> | **Gully ID** | Sign in with Gully: passkeys, wallets and email, one account for every Gully app. | [gullyid.xyz](https://gullyid.xyz) | [hydra](https://github.com/gully-labs/hydra), [SimpleWebAuthn](https://github.com/gully-labs/SimpleWebAuthn) |
 | <img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/products/icon-transparent-256.png" height="40" alt="HolderMaps"> | **HolderMaps** | Holder bubble maps: who really holds a token, the biggest wallets and their linked clusters, on every chain we run. | [holdermaps.xyz](https://holdermaps.xyz) | <sub>private for now</sub> |
@@ -41,10 +42,9 @@ New to the stack? Start at the [docs](https://docs.gullylabs.xyz) or ask [Gully 
 <table>
   <tr>
     <td width="25%" valign="top">
-      <a href="https://deepcore.fun/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/deepcore.png" alt="DeepCore" width="100%"></a>
-      <br><b><a href="https://deepcore.fun/">DeepCore</a></b>
-      <br>Launch on one core. A launchpad, hosted Launchpads and DEXes and a best-price router. The built-in launchpad of Gully Chain.
-      <br><sub>Gully Chain · Base · BNB Chain · HyperEVM · Robinhood</sub>
+      <br><b><a href="https://gullycore.xyz/">Gully Core</a></b>
+      <br>Launch on one core. Launchpads, DEXes and stock markets as a service, with a router and vaults. Built on PancakeSwap Infinity's audited core.
+      <br><sub>Anubis live · Gully Chain testnet · more chains coming</sub>
     </td>
     <td width="25%" valign="top">
       <a href="https://peddles.xyz/"><img src="https://raw.githubusercontent.com/gully-labs/.github/main/profile/assets/cards/peddles.png" alt="Peddles" width="100%"></a>
@@ -80,6 +80,7 @@ New to the stack? Start at the [docs](https://docs.gullylabs.xyz) or ask [Gully 
 |---|---|
 | Gully Labs | website, gully-ops, sdk, umami, VengeanceUI |
 | Gully Chain | gully-street (+ ios, android), gully-explorer, gullychain-sdk, gully-bridge-sdk, gully-quests, gully-dm, gully-bots, gully-copytrade, gully-chain-starter, the Chain Kit repos, and the chain forks (bridge, faucet, Safe, Uniswap v3, Kernel, Alto, Hyperlane, ENS, token lists, registries) |
+| Gully Core | gully-core, gully-core-app |
 | Gully Pay | gull-pay, x402 |
 | Gully RPC | gully-rpc, erpc, grafana |
 | Gully ID | gully-id, hydra, SimpleWebAuthn |
